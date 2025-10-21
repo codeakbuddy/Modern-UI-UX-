@@ -69,6 +69,12 @@ export const navigation = [
     url: "#login",
     onlyMobile: true,
   },
+  {
+    id: "6",
+    title: "CI CD",
+    url: "#login",
+    onlyMobile: true,
+  },
 ];
 
 export const heroIcons = [homeSmile, file02, searchMd, plusSquare];

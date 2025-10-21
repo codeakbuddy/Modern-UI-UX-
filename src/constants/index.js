@@ -73,7 +73,6 @@ export const navigation = [
     id: "6",
     title: "CI CD",
     url: "#login",
-    onlyMobile: true,
   },
 ];
 
